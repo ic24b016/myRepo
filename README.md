@@ -1,1 +1,1 @@
-# myRepo
+# myRepoConflict from GitHub
